@@ -6,3 +6,4 @@ dont eat jnk
 git is comprehensive tools (developper-1)
 svn is depreesed (dev-2)
 something
+ansible not easy to learn
