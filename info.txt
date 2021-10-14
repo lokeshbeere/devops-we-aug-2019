@@ -4,7 +4,7 @@ this is added by developper - 2
 ### comments
 kubr is awsomwm
 adding this line for demo changes
-dont eat jnk
+dont eat jnkffff
 git is comprehensive tools (developper-1)
 svn is depreesed (dev-2)
 something
