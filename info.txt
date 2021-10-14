@@ -2,7 +2,7 @@ This is to add my info
 this is added by develpooer -1 1
 this is added by developper - 2
 ### comments
-kubr is awsomw
+kubr is awsomwm
 adding this line for demo changes
 dont eat jnk
 git is comprehensive tools (developper-1)
